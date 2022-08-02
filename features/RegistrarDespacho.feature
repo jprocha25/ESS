@@ -32,3 +32,4 @@ Scenario: Ver a quantidade de pedidos despachados -> Indicar a quantidade de ped
 	When I ask the system to "mostrar pedidos enviados"
 	Then I get a list containing pedido "LJ123" 
 Fazendo primeiro commit no desenvolvimento 
+Esse eh o segundo commit do desenvolvimento 
